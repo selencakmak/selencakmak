@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Python, Java, AI**
 
-- 📫 How to reach me **cakmak.selen.eren@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
