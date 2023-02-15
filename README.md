@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **IbTech | QNB Finansbank**
 
-- 🌱 I’m currently learning **Python, Java, AI**
+- 🌱 I’m currently learning **Python, Java, AI, Machine Learning**
 
 
 <h3 align="left">Connect with me:</h3>
